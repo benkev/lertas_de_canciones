@@ -1,0 +1,500 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="ru" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="ru" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="ru" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="ru" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="ru" dir="ltr"><!--<![endif]-->
+
+
+<head>
+  <meta charset="utf-8" />
+<link rel="canonical" href="https://lyricstranslate.com/ru/los-moles-el-novio-de-la-muerte-lyrics.html" />
+<link rel="shortcut icon" href="https://lyricstranslate.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Los Moles - Текст песни El legionario y la morita - RU</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <!--[if IEMobile]><meta http-equiv="cleartype" content="on"><![endif]-->
+  
+    <meta property="og:title" name="title" content="Los Moles - Текст песни El legionario y la morita - RU" />
+      <meta name="description" content="Los Moles Текст песни El legionario y la morita: Estando un día en un burdel de Casablanca  / un legionario de una morit..." />
+    <meta property="og:description" content="Los Moles Текст песни El legionario y la morita: Estando un día en un burdel d" />       
+    
+      
+     
+  <link type="text/css" rel="stylesheet" href="https://lyricstranslate.com/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://lyricstranslate.com/files/css/css_mDwoBcuQWdpNxFC1mW84APG7bFie7mL7rMpf9MkHNRI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://lyricstranslate.com/files/css/css_RRoKD_-dxu3v0kqklJocycbv5gyYZob3jMDNTbrwRa0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://lyricstranslate.com/files/css/css_Fr1Q6YFT1zBWVIpidl_NxVOsapGruFKvbhFNLV-0rpk.css" media="all" />
+  <script type="text/javascript"> 
+    function addLoadEvent(func) {
+      var oldonload = window.onload;
+      if (typeof window.onload != 'function') {
+        window.onload = func;
+      } 
+      else {
+        window.onload = function() {
+          if (oldonload) {
+            oldonload();
+          }
+          func();
+        }
+      }
+    }
+  </script>
+        <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+    <link rel="alternate" hreflang="ar" href="https://lyricstranslate.com/ar/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="bn" href="https://lyricstranslate.com/bn/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="bg" href="https://lyricstranslate.com/bg/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="nl" href="https://lyricstranslate.com/nl/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="en" href="https://lyricstranslate.com/en/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="fr" href="https://lyricstranslate.com/fr/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="de" href="https://lyricstranslate.com/de/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="el" href="https://lyricstranslate.com/el/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="hi" href="https://lyricstranslate.com/hi/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="hu" href="https://lyricstranslate.com/hu/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="it" href="https://lyricstranslate.com/it/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="ko" href="https://lyricstranslate.com/ko/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="pl" href="https://lyricstranslate.com/pl/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="pt-br" href="https://lyricstranslate.com/pt-br/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="ro" href="https://lyricstranslate.com/ro/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="ru" href="https://lyricstranslate.com/ru/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="sr" href="https://lyricstranslate.com/sr/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="es" href="https://lyricstranslate.com/es/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="sv" href="https://lyricstranslate.com/sv/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+<link rel="alternate" hreflang="tr" href="https://lyricstranslate.com/tr/los-moles-el-novio-de-la-muerte-lyrics.html"/>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-851231 node-type-song i18n-ru section-los-moles-el-novio-de-la-muerte-lyricshtml lt7 ltr" >
+      
+<div id="header" class="clearfix">
+  <div id="logo" class="desktop-only">
+    <a href="/ru" rel="home"><img src="https://lyricstranslate.com/sites/all/themes/lt7/images/logo-60.png" alt="Главная" id="logo-image" /></a>
+          </div>
+
+  <div id="header-search" class="desktop-only"><div class = "searchgoogleblockheader block clear"><form action="/ru/site-search"  accept-charset="UTF-8" method="get" id="google-cse-searchbox-form-front">  <input type="text" maxlength="128" name="query" id="edit-filter0-desktop"  size="15" value=""  
+    class="form-text edit-filter0" onchange="document.getElementById('edit-filter0-desktop').value=this.value"     placeholder="Ищите исполнителей или тексты песен" />
+  <button id="magnifier-button" class="mobile-only" type="submit" name="op" id="edit-sa2">
+    <img src="https://lyricstranslate.com/sites/all/themes/lt7/images/magnifier.png"  alt="loading" />
+  </button><input type="submit" name="op" value="Поиск"  id="edit-sa2" class="form-submit desktop-only" /></form></div></div>
+  <div id="header-right" class="desktop-only">
+    <div class="header-languages">
+      <div id="selectlanguages"><ul id="selectlanguageslist"><li class="selectedlanguage"><a href="/ru"><img src="/sites/all/themes/lt7/images/locale-alternate.png" id="flag-locale-alternate" alt="Select your language"/>Русский</a></li><li class="sl "><a href="https://lyricstranslate.com/bn/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="bn">Bengali</a></li><li class="sl "><a href="https://lyricstranslate.com/de/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="de">Deutsch</a></li><li class="sl "><a href="https://lyricstranslate.com/en/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="en">English</a></li><li class="sl "><a href="https://lyricstranslate.com/es/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="es">Español</a></li><li class="sl "><a href="https://lyricstranslate.com/fr/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="fr">Français</a></li><li class="sl "><a href="https://lyricstranslate.com/hu/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="hu">Hungarian</a></li><li class="sl "><a href="https://lyricstranslate.com/it/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="it">Italiano</a></li><li class="sl "><a href="https://lyricstranslate.com/nl/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="nl">Nederlands</a></li><li class="sl "><a href="https://lyricstranslate.com/pl/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="pl">Polski</a></li><li class="sl "><a href="https://lyricstranslate.com/pt-br/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="pt-br">Português (Brasil)</a></li><li class="sl "><a href="https://lyricstranslate.com/ro/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="ro">Română</a></li><li class="sl "><a href="https://lyricstranslate.com/sv/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="sv">Svenska</a></li><li class="sl "><a href="https://lyricstranslate.com/tr/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="tr">Türkçe</a></li><li class="sl "><a href="https://lyricstranslate.com/el/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="el">Ελληνικά</a></li><li class="sl "><a href="https://lyricstranslate.com/bg/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="bg">Български</a></li><li class="sl "><a href="https://lyricstranslate.com/ru/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="ru">Русский</a></li><li class="sl "><a href="https://lyricstranslate.com/sr/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="sr">Српски</a></li><li class="sl "><a href="https://lyricstranslate.com/ar/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="ar">العربية</a></li><li class="sl "><a href="https://lyricstranslate.com/hi/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="hi">हिन्दी</a></li><li class="sl "><a href="https://lyricstranslate.com/ko/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="ko">한국어</a></li></ul></div>    </div>
+    <div class="header-info"><ul><li><a href="/ru/how-add-new-translation">Стань переводчиком</a></li><li><a href="/ru/how-request-translation">Попросить перевести текст песни</a></li></ul></div>
+  </div>
+  <div id="header-mobile" class="mobile-only">
+    <div id="logo-mobile">
+      <a href="/ru" rel="home"><img src="https://lyricstranslate.com/sites/all/themes/lt7/images/logo_38.jpg" alt="Главная" id="logo-mobile-img" /></a>
+    </div>
+    <div id="header-search"><div class = "searchgoogleblockheader block clear"><form action="/ru/site-search"  accept-charset="UTF-8" method="get" id="google-cse-searchbox-form-front">  <input type="text" maxlength="128" name="query" id="edit-filter0-mobile"  size="15" value=""  
+    class="form-text edit-filter0" onchange="document.getElementById('edit-filter0-mobile').value=this.value"     placeholder="Ищите исполнителей или тексты песен" />
+  <button id="magnifier-button" class="mobile-only" type="submit" name="op" id="edit-sa2">
+    <img src="https://lyricstranslate.com/sites/all/themes/lt7/images/magnifier.png"  alt="loading" />
+  </button><input type="submit" name="op" value="Поиск"  id="edit-sa2" class="form-submit desktop-only" /></form></div></div>
+    <div id="header-menu-button">
+      <div id="mobile-menu-place"></div>
+    </div>
+  </div>
+
+  
+  <div id="navbar">
+    <div class="navbarl">
+      <div class="navbarr">
+        <div id="divnav" class="nav_guest"><div id="nav"><ul><ul id="mobile-menu" class="mobile-only"><li><a class="head-menu" id="mobile-menu-link">Меню</a><ul id="mobile-submenu"><li class="menu-li-first"><a class="daddy"><span>Песни</span></a><ul><li class="menu-li-first"><a href="/ru/artists"><span>Исполнители</span></a></li><li><a href="/ru/songs"><span>Песни</span></a></li><li><a href="/ru/translations"><span>Переводы</span></a></li><li><a href="/ru/requests"><span>Запросы на перевод</span></a></li><li><a href="/ru/transrequests"><span>Запросы на транскрипцию</span></a></li><li><a href="/ru/collections"><span>Коллекции</span></a></li><li><a href="/ru/phrases"><span>Идиомы</span></a></li><li class="menu-li-last"><a href="/ru/languages.html"><span>Языки</span></a></li></ul></li><li><a class="daddy"><span>Действия</span></a><ul><li class="menu-li-first not-active-for-guests"><a href="/ru/add/translate"><span>Добавить новый перевод</span></a></li><li class="not-active-for-guests"><a href="/ru/add/song"><span>Добавить песню</span></a></li><li class="not-active-for-guests"><a href="/ru/add/request"><span>Запросить перевод</span></a></li><li class="not-active-for-guests"><a href="/ru/add/transrequest"><span>Запросить текст песни по видео</span></a></li><li class="not-active-for-guests"><a href="/ru/add/phrases"><span> Добавить новую идиому</span></a></li><li class="not-active-for-guests menu-li-last"><a href="/ru/node/add/forum"><span> Начать обсуждение на форуме</span></a></li><li class="menu-li-last"><a rel="nofollow" href="https://lyricstranslate.com/ru/user/register?destination=node/851231"><span class="menu-red-text">Зарегистрироваться</span></a></li></ul></li><li><a class="daddy"><span>Сообщество</span></a><ul><li class="menu-li-first"><a href="/ru/members"><span>Участники</span></a></li><li><a href="/ru/forum"><span>Форум</span></a></li><li><a href="/ru/newforumtopics"><span> Новые обсуждения форума</span></a></li><li><a href="/ru/recent-comments"><span>Последние комментарии</span></a></li><li class="menu-li-last"><a href="/ru/topnodes"><span> Популярный контент</span></a></li></ul></li><li><a class="daddy"><span>С чего начать</span></a><ul><li class="menu-li-first"><a href=/ru/how-request-translation><span>Попросить перевести текст песни</span></a></li><li><a href=/ru/how-add-new-translation><span>Стань переводчиком</span></a></li><li><a href=/ru/lt-site-rules><span>Правила сайта</span></a></li><li><a href=/ru/faq><span>Вопросы и ответы</span></a></li><li class="menu-li-last"><a href="/ru/forums/general-forums/lyricstranslatecom"><span>Lyricstranslate.com Forum</span></a></li></ul></li><li><a href="https://lyricstranslate.com/ru/user/login?destination=node/851231" rel="nofollow"><span class="menu-red-text">Sign in</span></a></li><li><a href="https://lyricstranslate.com/ru/user/register?destination=node/851231" rel="nofollow"><span class="menu-red-text">Зарегистрироваться</span></a></li><li><a class="daddy"><span><img src="/sites/all/themes/lt7/images/locale-alternate.png" class="flag-locale-alternate-mobile" alt="Select your language"/><img src="/sites/all/themes/lt7/images/locale-alternate.png" class="flag-locale-alternate-mobile" alt="Select your language"/></span></a><ul class="mobile-locale-selector"><li class="sl "><a href="https://lyricstranslate.com/bn/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="bn">Bengali</a></li><li class="sl "><a href="https://lyricstranslate.com/de/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="de">Deutsch</a></li><li class="sl "><a href="https://lyricstranslate.com/en/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="en">English</a></li><li class="sl "><a href="https://lyricstranslate.com/es/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="es">Español</a></li><li class="sl "><a href="https://lyricstranslate.com/fr/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="fr">Français</a></li><li class="sl "><a href="https://lyricstranslate.com/hu/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="hu">Hungarian</a></li><li class="sl "><a href="https://lyricstranslate.com/it/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="it">Italiano</a></li><li class="sl "><a href="https://lyricstranslate.com/nl/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="nl">Nederlands</a></li><li class="sl "><a href="https://lyricstranslate.com/pl/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="pl">Polski</a></li><li class="sl "><a href="https://lyricstranslate.com/pt-br/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="pt-br">Português (Brasil)</a></li><li class="sl "><a href="https://lyricstranslate.com/ro/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="ro">Română</a></li><li class="sl "><a href="https://lyricstranslate.com/sv/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="sv">Svenska</a></li><li class="sl "><a href="https://lyricstranslate.com/tr/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="tr">Türkçe</a></li><li class="sl "><a href="https://lyricstranslate.com/el/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="el">Ελληνικά</a></li><li class="sl "><a href="https://lyricstranslate.com/bg/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="bg">Български</a></li><li class="sl "><a href="https://lyricstranslate.com/ru/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="ru">Русский</a></li><li class="sl "><a href="https://lyricstranslate.com/sr/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="sr">Српски</a></li><li class="sl "><a href="https://lyricstranslate.com/ar/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="ar">العربية</a></li><li class="sl "><a href="https://lyricstranslate.com/hi/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="hi">हिन्दी</a></li><li class="sl "><a href="https://lyricstranslate.com/ko/los-moles-el-novio-de-la-muerte-lyrics.html" ltlang="ko">한국어</a></li></li></ul></ul></li></ul><li><a href="/ru/artists" class="head-menu">Исполнители</a></li><li><a href="/ru/songs" class="head-menu">Песни</a></li><li><a href="/ru/translations" class="head-menu">Переводы</a></li><li class="mobile-hide"><a href="/ru/collections" class="head-menu">Коллекции</a></li><li class="mobile-hide"><a href="/ru/requests" class="head-menu">Запросы на перевод</a></li><li class="mobile-hide"><a class="head-menu" href="/ru/members">Сообщество</a></li><li class="mobile-hide tablet-hide"><a href="/ru/languages.html" class="head-menu mobile-hide" id="head-menu-by-languages">Языки</a></li><li class="mobile-hide"><a class="head-menu" href="/ru/faq">Помощь</a></li></ul></div></div>        <div id="guest-usermenu" class="usermenu"><div class="usermenu-bg-l"></div><div class="usermenu-bg-x"><ul><li class="mobile-hide first usermenu-fb-icon"><a rel="nofollow" href="https://lyricstranslate.com/ru/user/login?destination=node/851231">Войти</a></li><li class="mobile-hide"><a rel="nofollow" href="https://lyricstranslate.com/ru/user/register?destination=node/851231">Регистрация</a></li><li class="mobile-only"><a rel="nofollow" href="https://lyricstranslate.com/ru/user/login?destination=node/851231">Sign In</a></li></ul></div><div class="usermenu-bg-r"></div></div></div>      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="page" class="clearfix">
+  <div id="page-inner">
+    <div>
+      <div id="header-inner" class="clear-block">
+              </div>
+    </div>
+    <div id="main" class="clearfix">
+      <div id="main-inner" class="clear-block with-navbar">
+        <div id="content">
+          <div id="content-inner" data-sticky_parent>
+                        <div id="content-top">
+                                <div class="region region-content-top">
+    <div id="block-lyricstranslateblocks-31" class="block block-lyricstranslateblocks first last odd">
+
+      
+  
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle adslot-desktop-leader-mobile-50"
+     style="display:inline-block;"
+     data-ad-client="ca-pub-2263910626212700"
+     data-ad-slot="8385534602"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+  </div>
+              
+              <div class="breadcrumb-node"><a href="/ru" title="LyricsTranslate.com">LT</a> &rarr; <a href="/ru/language/spanish-artists">Испанский</a> &rarr; <a href="/ru/los-moles-lyrics.html">Los Moles</a> &rarr; El legionario y la morita</div>              
+            </div>
+                          <div id="content-header">
+                
+                                  <h1 class="new-title">Los Moles - El legionario y la morita</h1>                                                                  <div class="tabs clearfix">
+                                      </div>
+                                                                                </div>
+                        <div id="content-area" class="clearfix">
+                                            
+
+
+
+
+<div class="node " id="node-851231">
+  <div class="node-inner">
+        <div class="song-node" id="songnode">
+      <div class="song-node-infoline">
+        <div class="song-node-info">
+          <ul class="node-info-float">
+                        <li class="song-node-info-artist">
+            Исполнитель: <a href="/ru/los-moles-lyrics.html">Los Moles</a>            </li>
+             
+            
+       
+			 
+            
+			 
+			
+            <li class="song-node-info-translate">Переводы: <a href="/ru/el-legionario-y-la-morita-legionnaire-and-moorish-woman.html">Английский</a>, <a href="/ru/el-legionario-y-la-morita-il-legionario-e-la-moretta.html">Итальянский</a>, <a href="/ru/el-legionario-y-la-morita-soldatul-legionar-%C8%99i-maura.html">Румынский</a>, <a href="/ru/el-legionario-y-la-morita-le-l%C3%A9gionnaire-et-la-petite-maure.html">Французский</a></li>                                  </ul>
+          <div class="translation-banner-middle"><div class="ad-label">Advertisements</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle adslot-desktop-100-mobile-100"
+     style="display:inline-block;"
+     data-ad-client="ca-pub-2263910626212700"
+     data-ad-slot="8385534602"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>        </div>   
+        <div class="clear"></div>
+      </div>
+      <span class="langsmall-song">
+        Испанский      </span>
+      <div class="song-node-additional">
+        <div class="song-node-text"> 
+          <h2 class="title-h2 ">
+		    El legionario y la morita		  </h2>
+          <div class="ltf"><div class='par'><div class="ll-0-1">Estando un día en un burdel de Casablanca</div><div class="ll-0-2">
+un legionario de una morita se enamoró</div><div class="ll-0-3">
+y fue tan grande el amor de aquel legía</div><div class="ll-0-4">
+que al poco tiempo con la mora se casó</div></div><div class='emptyline'>&nbsp;</div><div class='par'><div class="ll-1-1">Pasaron horas de alegría y de placer</div><div class="ll-1-2">
+en el trayecto de Melilla a Casablanca</div><div class="ll-1-3">
+tras una noche embriagado por el kiffi</div><div class="ll-1-4">
+a la morita sorprendió en un cabaré </div></div><div class='emptyline'>&nbsp;</div><div class='par'><div class="ll-2-1">Lleno de ira, sin saber lo que se hacía</div><div class="ll-2-2">
+sacó la pusca y a la ingrata disparó</div><div class="ll-2-3">
+hizo de blanco, lo ligó la policía</div><div class="ll-2-4">
+y a la morita entre tanto le cantó:</div></div><div class='emptyline'>&nbsp;</div><div class='par'><div class="ll-3-1">Papelillo, aguililla, tú que vas tan entifá</div><div class="ll-3-2">
+fumas chocolate y kiffi y no dejas de fumar</div><div class="ll-3-3">
+con la cachimba en la mano, fumando de noche y día</div><div class="ll-3-4">
+con mi morita a la vera, mora de la morería </div></div><div class='emptyline'>&nbsp;</div><div class='par'><div class="ll-4-1">~ ~ ~ </div></div><div class='emptyline'>&nbsp;</div><div class='par'><div class="ll-5-1">Ya son las diez y es la hora del silencio</div><div class="ll-5-2">
+ya se apagaron todas las luces del talego</div><div class="ll-5-3">
+y aquí me veo como siempre aquí llorando</div><div class="ll-5-4">
+por el amor infiel de una mujer </div></div><div class='emptyline'>&nbsp;</div><div class='par'><div class="ll-6-1">Y amigo mío eres novio de la muerte</div><div class="ll-6-2">
+y ése es tu grito a la hora de luchar</div><div class="ll-6-3">
+pero en amores no valen traición y muerte</div><div class="ll-6-4">
+y esta batalla es más dura de ganar  </div></div><div class='emptyline'>&nbsp;</div><div class='par'><div class="ll-7-1">Papelillo, aguililla, tú que vas tan entifá</div><div class="ll-7-2">
+fumas chocolate y kiffi y no dejas de fumar</div><div class="ll-7-3">
+con la cachimba en la mano, fumando de noche y día</div><div class="ll-7-4">
+con mi morita a la vera, mora de la morería</div></div><div class='emptyline'>&nbsp;</div></div>
+          <div class="ext-buttons song-social-buttons">
+               <ul class="share-buttons">
+    <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://lyricstranslate.com/ru/los-moles-el-novio-de-la-muerte-lyrics.html&t=Los+Moles+-+El+legionario+y+la+morita" title="Share on Facebook" target="_blank"><img src="/sites/all/themes/lt7/images/social_buttons2/Facebook.png" alt="facebook"></a></li>
+    <li><a href="https://twitter.com/intent/tweet?source=https://lyricstranslate.com/ru/los-moles-el-novio-de-la-muerte-lyrics.html&text=Los Moles - El legionario y la morita" target="_blank" title="Tweet"><img src="/sites/all/themes/lt7/images/social_buttons2/Twitter.png" alt="twitter"></a></li>
+    <li><a href="https://plus.google.com/share?url=https://lyricstranslate.com/ru/los-moles-el-novio-de-la-muerte-lyrics.html" target="_blank" title="Share on Google+"><img src="/sites/all/themes/lt7/images/social_buttons2/Google+.png" alt="google+"></a></li>
+  </ul>              <div style="clear:both;"></div>
+          </div>
+
+          <div class="authorsubmitted">Добавлено <a class="userpopupinfo" rel="user1118259" href="/ru/translator/valeriu-raut"><img class="max-height-30" src="https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1118259.jpg?itok=MRxTw374" alt="Valeriu Raut" />Valeriu Raut</a> в пт, 02/05/2014 - 19:57</div><div class="authorsubmitted"> В последний раз исправлено <a href="/ru/translator/valeriu-raut" class="userpopupinfo" rel="user1118259"><img class="max-height-30" src="https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1118259.jpg?itok=MRxTw374" alt="Valeriu Raut" />Valeriu Raut</a> в ср, 20/03/2019 - 13:31</div>            
+
+
+
+        			<div class="field field-type-text field-field-author-comments">
+				<div class="field-label">
+					Комментарий: 				</div>
+				<div class="field-items">
+					<p>Esta canción es una rumba flamenca<br />
+conocida también (erróneamente) con el título:<br />
+<strong>El novio de la muerte</p>
+<p></strong></p>
+				</div>
+			</div>
+         
+		
+                <table cellpadding="0" cellspacing="0" border="0" class="thankstable"><tr><td id="tb" valign=middle><a rel="nofollow" id="thanks" class="greenbutton tooltip" nid="851231" title="You can thank submitter by pressing this button">Спасибо!</a></td><td class="my-thanks-button"><a rel="nofollow" id="displaythanks" nid="851231" href="?height=450&width=400&inline=true#ltnodethanks" class="colorbox-inline ltnodethanks">поблагодарили 32 раза</a></td></tr></table><div style="display:none"><div id="ltnodethanks"></div></div>        		
+						
+        
+        </div>
+        <div class="song-node-video">
+          <div class="mobile-hide tablet-hide">
+          <h2 class="title-h2">&nbsp;</h2>
+          <span id="video851231"><div class="youtube-player-wraper"><div class="youtube-player" data-id="9ZViyXTyZwo"></div></div>  <script>
+
+    /* Light YouTube Embeds by @labnol */
+    /* Web: http://labnol.org/?p=27941 */
+
+    document.addEventListener("DOMContentLoaded",
+        function() {
+            var div, n,
+                v = document.getElementsByClassName("youtube-player");
+            for (n = 0; n < v.length; n++) {
+                div = document.createElement("div");
+                div.setAttribute("data-id", v[n].dataset.id);
+                div.innerHTML = labnolThumb(v[n].dataset.id);
+                div.onclick = labnolIframe;
+                v[n].appendChild(div);
+            }
+        });
+
+</script></span>          </div>
+          <div class="song-node-video-banner">
+          <div class="ad-label">Advertisements</div><div class="ad-right-v">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle adslot-song-square"
+     style="display:inline-block;"
+     data-ad-client="ca-pub-2263910626212700"
+     data-ad-slot="2339001005"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>          </div>
+        </div>
+      </div>
+      <div class="mobile-only tablet-only clear mobile-video-player">
+        <div class="ad-label">Видео</div><div class="youtube-player-wraper"><div class="youtube-player" data-id="9ZViyXTyZwo"></div></div>  <script>
+
+    /* Light YouTube Embeds by @labnol */
+    /* Web: http://labnol.org/?p=27941 */
+
+    document.addEventListener("DOMContentLoaded",
+        function() {
+            var div, n,
+                v = document.getElementsByClassName("youtube-player");
+            for (n = 0; n < v.length; n++) {
+                div = document.createElement("div");
+                div.setAttribute("data-id", v[n].dataset.id);
+                div.innerHTML = labnolThumb(v[n].dataset.id);
+                div.onclick = labnolIframe;
+                v[n].appendChild(div);
+            }
+        });
+
+</script>      </div>
+      <div class="clear"></div>
+
+
+
+  
+      <div class="node-social-links-line-b">
+       <div class="addthis_toolbox addthis_default_style node-social-links-line-b-left">
+       </div>
+        <div class="addthis_toolbox addthis_default_style node-social-links-line-b-right">
+          </span>
+        </div>
+      </div>
+      <div class="clear"></div>
+	  
+        <div class="node-links clear">
+                  <ul class="node-links-left">
+            <li><a rel="nofollow" href="https://lyricstranslate.com/ru/user/login?destination=add/translate/851231">Добавить новый перевод</a></li>
+            <li><a rel="nofollow" href="https://lyricstranslate.com/ru/user/login?destination=add/request/851231">Запросить перевод</a></li>
+          </ul> 
+          <ul class="node-links-right">
+            
+          </ul>
+          
+              </div>
+      <div class="clear"></div>
+      <div class="masonry-grid" data-masonry='{ "itemSelector": ".grid-item" }'>
+              <div class="song-list grid-item">
+          <div class="h2titlered">Переводы "El legionario y la ..."</div>
+          <div class="song-list-translations-list"><span class="song-list-translations-list-languages">
+            <a href="/ru/el-legionario-y-la-morita-legionnaire-and-moorish-woman.html" 
+            title="Испанский - Английский перевод">Испанский &rarr; Английский</a> </span><span class="song-list-translations-list-author"> - <a href="/ru/translator/violeta-spica">Violeta Spica</a></span><span class="song-list-translations-list-date"></span></div><div class="song-list-translations-list"><span class="song-list-translations-list-languages">
+            <a href="/ru/el-legionario-y-la-morita-il-legionario-e-la-moretta.html" 
+            title="Испанский - Итальянский перевод">Испанский &rarr; Итальянский</a> </span><span class="song-list-translations-list-author"> - <a href="/ru/translator/marcoserra568">Hampsicora</a></span><span class="song-list-translations-list-date"><div class="fivestar-basic"><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clearfix"><div class="star star-1 star-odd star-first"><span class="on">5</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on"></span></div></div></div></span></div><div class="song-list-translations-list"><span class="song-list-translations-list-languages">
+            <a href="/ru/el-legionario-y-la-morita-soldatul-legionar-%C8%99i-maura.html" 
+            title="Испанский - Румынский перевод">Испанский &rarr; Румынский</a> </span><span class="song-list-translations-list-author"> - <a href="/ru/translator/valeriu-raut">Valeriu Raut</a></span><span class="song-list-translations-list-date"></span></div><div class="song-list-translations-list"><span class="song-list-translations-list-languages">
+            <a href="/ru/el-legionario-y-la-morita-le-l%C3%A9gionnaire-et-la-petite-maure.html" 
+            title="Испанский - Французский перевод">Испанский &rarr; Французский</a> </span><span class="song-list-translations-list-author"> - <a href="/ru/translator/valeriu-raut">Valeriu Raut</a></span><span class="song-list-translations-list-date"></span></div>        </div>
+                                          </div>
+      <div class="clear"></div>
+        	
+              <div id="commentsheader">
+          <div class="h2titlered">Комментарии</div>
+		    </div>        <a name="comments"></a>
+        <div id="commentsfooter">
+          <div class="links linkslogin node-links">
+            <ul class="links inline node-links-left">
+            <li class="comment_forbidden first"><a rel="nofollow" href="https://lyricstranslate.com/ru/user/login?destination=node/851231">Войдите</a> или <a rel="nofollow" href="https://lyricstranslate.com/ru/user/register?destination=node/851231">зарегистрируйтесь</a>, чтобы получить возможность отправлять комментарии</li>
+            </ul>
+          </div>
+		    </div>    </div>
+  </div>
+</div>
+
+
+
+  	
+
+
+
+
+                          </div>
+            <div id="content-bottom" class="clearfix">
+                          </div>
+          </div>
+        </div>
+		        <div id="sidebar-second" class="column sidebar"><div class="section region">
+            <section class="region region-sidebar-second column sidebar">
+    <div id="block-lyricstranslateblocks-67" class="block block-lyricstranslateblocks first odd">
+
+      
+  <div id="fb-small-block">
+  <div class="fsb-logo">
+    <a rel="nofollow" href="https://www.facebook.com/lyricstranslate"><img src="/sites/all/themes/lt7/images/lt_logo_small_square.png" alt="fsb-logo"></a>
+  </div>
+  <div class="fsb-links">
+    <div class="fsb-links-header">
+      <a rel="nofollow" href="https://www.facebook.com/lyricstranslate">Lyricstranslate</a>
+    </div>
+    <div class="fsb-links-bottom">
+      <div class="fsb-links-button">
+        <a rel="nofollow" href="https://www.facebook.com/lyricstranslate">Like Page</a>
+      </div>
+      <div class="fsb-links-likes">
+        31k likes
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<div id="block-lyricstranslatewhathappens-lyricstranslatewhathappens" class="block block-lyricstranslatewhathappens even">
+
+      
+  <div class="content-type"><div class="content-type-inner"><div class="h2title">Активность на сайте</div><div class="item-list" id="lyricstranslatewhathappensdiv"><div class="lyricstranslatewhathappensul-item clear" id="1406580"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/kasia19160" title="Kasia19160" class="userpopupinfo" rel="user1356418"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png?itok=CCU0o7qL" alt="Kasia19160" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый запрос на перевод</div><div class="mc-comment"><a href="/ru/request/ta%C5%84cz-g%C5%82upia-ta%C5%84cz">Tańcz głupia, tańcz</a></div></div><div class="lyricstranslatewhathappensul-languagename">Польский&nbsp;&rarr;&nbsp;Русский</div></div><div class="lyricstranslatewhathappensul-item clear" id="1406579"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/sara-colucci" title="Sara Colucci" class="userpopupinfo" rel="user1292301"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1292301-1509110215.jpg?itok=PBuD_0DN" alt="Sara Colucci" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый перевод</div><div class="mc-comment"><a href="/ru/lionheart-cuor-di-leone.html">Cuor Di Leone</a></div></div><div class="lyricstranslatewhathappensul-languagename">Английский&nbsp;&rarr;&nbsp;Итальянский</div></div><div class="lyricstranslatewhathappensul-item clear" id="1406578"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/idiotkilljoywithoutpride" title="IdiotKilljoyWithoutPride" class="userpopupinfo" rel="user1340658"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1340658-1496785123.png?itok=-fZenx72" alt="IdiotKilljoyWithoutPride" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый перевод</div><div class="mc-comment"><a href="/ru/friends-dont-gli-amici-non.html">Gli amici non</a></div></div><div class="lyricstranslatewhathappensul-languagename">Английский&nbsp;&rarr;&nbsp;Итальянский</div></div><div class="lyricstranslatewhathappensul-item clear" id="1406577"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/emilia-albo" title="Sarasvati" class="userpopupinfo" rel="user1349052"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1349052-1546298492.jpg?itok=9xd9m61q" alt="Sarasvati" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый комментарий</div><div class="mc-comment">:) Allemand &gt; allemand&nbsp;&nbsp;<a href="/ru/comment/553597#comment-553597">подробнее</a></div></div></div><div class="lyricstranslatewhathappensul-item clear" id="1406576"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/do%C4%9F-eisenberg" title="Doğa Eisenberg" class="userpopupinfo" rel="user1298661"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1298661-1499350971.png?itok=haDgl_Qn" alt="Doğa Eisenberg" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый перевод</div><div class="mc-comment"><a href="/ru/stand-still-%C3%B6ylece-dur.html">Öylece dur</a></div></div><div class="lyricstranslatewhathappensul-languagename">Английский&nbsp;&rarr;&nbsp;Турецкий</div></div><div class="lyricstranslatewhathappensul-item clear" id="1406575"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/ur-joy" title="Ur Joy" class="userpopupinfo" rel="user1210794"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png?itok=CCU0o7qL" alt="Ur Joy" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый перевод</div><div class="mc-comment"><a href="/ru/drugs-%D0%B2%D1%81%D1%91-%D0%B4%D0%B5%D0%BB%D0%BE-%D0%B2-%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B0%D1%85.html">Всё дело в наркотиках</a></div></div><div class="lyricstranslatewhathappensul-languagename">Английский&nbsp;&rarr;&nbsp;Русский</div></div><div class="lyricstranslatewhathappensul-item clear" id="1406574"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/maluca" title="maluca" class="userpopupinfo" rel="user1206376"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1398965405.gif?itok=p0ex4u3E" alt="maluca" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый перевод</div><div class="mc-comment"><a href="/ru/hamma-karibik-style-hamma-karibik-style.html">Hamma (Karibik-Style)</a></div></div><div class="lyricstranslatewhathappensul-languagename">Немецкий&nbsp;&rarr;&nbsp;Немецкий</div></div><div class="lyricstranslatewhathappensul-item clear" id="1406573"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/la-isabel" title="La Isabel" class="userpopupinfo" rel="user1412647"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png?itok=CCU0o7qL" alt="La Isabel" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый комментарий</div><div class="mc-comment">Si a la condición que las correcciones sean para quitar faltas y cosas que no suenen bien sino no es...&nbsp;&nbsp;<a href="/ru/comment/553596#comment-553596">подробнее</a></div></div></div><div class="lyricstranslatewhathappensul-item clear" id="1406572"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/daiana8879" title="Daiana8879" class="userpopupinfo" rel="user1325426"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1325426-1508056332.jpg?itok=1aZx9oMS" alt="Daiana8879" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый перевод</div><div class="mc-comment"><a href="/ru/diamonds-rust-%D0%B4%D0%B8%D0%B0%D0%BC%D0%B0%D0%BD%D1%82%D0%B8-%D0%B8-%D1%80%D1%8A%D0%B6%D0%B4%D0%B0.html">Диаманти и ръжда</a></div></div><div class="lyricstranslatewhathappensul-languagename">Английский&nbsp;&rarr;&nbsp;Болгарский</div></div><div class="lyricstranslatewhathappensul-item clear" id="1406571"><div class="lyricstranslatewhathappensul-content"><div class="mc-ava"><a href="/ru/translator/wuhuahua089" title="wuhuahua089" class="userpopupinfo" rel="user1176962"><img class="max-width-30" src="https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176962-1432887669.gif?itok=rRg17UP_" alt="wuhuahua089" /></a></div><div class="lyricstranslatewhathappens-small-message">Новый перевод</div><div class="mc-comment"><a href="/ru/%E5%9B%B0%E7%8D%B8%E4%B9%8B%E9%AC%A5-%E5%AE%98%E6%96%B9%E5%AE%8C%E6%95%B4-struggle-kun-shou-zhi-dou-desperate-struggle.html">Desperate Struggle</a></div></div><div class="lyricstranslatewhathappensul-languagename">Китайский&nbsp;&rarr;&nbsp;Английский</div></div></div></div></div>
+</div>
+<div id="block-lyricstranslateblocks-62" class="block block-lyricstranslateblocks odd">
+
+      
+  <div class="block clear"><div class="h2title">Испания:  Топ 10</div><table class="popular-list">
+<tbody>
+ <tr class="odd"><td class="counter">1.</td><td class="artistName"><a href="/ru/enrique-iglesias-lyrics.html">Enrique Iglesias</a></td> </tr>
+ <tr class="even"><td class="counter">2.</td><td class="artistName"><a href="/ru/julio-iglesias-lyrics.html">Julio Iglesias</a></td> </tr>
+ <tr class="odd"><td class="counter">3.</td><td class="artistName"><a href="/ru/pablo-alboran-lyrics.html">Pablo Alborán</a></td> </tr>
+ <tr class="even"><td class="counter">4.</td><td class="artistName"><a href="/ru/bebe-lyrics.html">Bebe</a></td> </tr>
+ <tr class="odd"><td class="counter">5.</td><td class="artistName"><a href="/ru/alejandro-sanz-lyrics.html">Alejandro Sanz</a></td> </tr>
+ <tr class="even"><td class="counter">6.</td><td class="artistName"><a href="/ru/david-bisbal-lyrics.html">David Bisbal</a></td> </tr>
+ <tr class="odd"><td class="counter">7.</td><td class="artistName"><a href="/ru/buika-lyrics.html">Buika</a></td> </tr>
+ <tr class="even"><td class="counter">8.</td><td class="artistName"><a href="/ru/alvaro-soler-lyrics.html">Álvaro Soler</a></td> </tr>
+ <tr class="odd"><td class="counter">9.</td><td class="artistName"><a href="/ru/jarabe-de-palo-lyrics.html">Jarabe de Palo</a></td> </tr>
+ <tr class="even"><td class="counter">10.</td><td class="artistName"><a href="/ru/la-oreja-de-van-gogh-lyrics.html">La Oreja de Van Gogh</a></td> </tr>
+</tbody>
+</table>
+<div class="more-link"><a href="/ru/country/spain">Дальше</a></div></div>
+</div>
+<div id="block-lyricstranslateblocks-69" class="block block-lyricstranslateblocks last even">
+
+      
+  <div class="block clear"><div class="h2title"> Сейчас в тренде</div><div class="item-list"><ul><li class="list-item list_odd"><a href="/ru/alan-walker-my-way-lyrics.html" title="Текст песни Alan Walker - On My Way">Alan Walker - On My Way</a><img src="/sites/all/themes/lt7/images/play.png" class="play" alt="video"/><div class="lang-line">Испанский</div></li><li class="list-item list_even"><a href="/ru/darshan-raval-kaash-aisa-hota-lyrics.html" title="Текст песни Darshan Raval - Kaash Aisa Hota">Darshan Raval - Kaash Aisa Hota</a><img src="/sites/all/themes/lt7/images/play.png" class="play" alt="video"/><div class="lang-line">Хинди</div></li><li class="list-item list_odd"><a href="/ru/kalank-ost-first-class-lyrics.html" title="Текст песни Kalank (OST) - First Class">Kalank (OST) - First Class</a><img src="/sites/all/themes/lt7/images/play.png" class="play" alt="video"/><div class="lang-line">Английский</div></li><li class="list-item list_even"><a href="/ru/pnl-au-dd-lyrics.html" title="Текст песни PNL - Au DD">PNL - Au DD</a><img src="/sites/all/themes/lt7/images/play.png" class="play" alt="video"/><div class="lang-line">Французский</div></li><li class="list-item list_odd"><a href="/ru/anivar-%D0%BD%D0%B5%D1%87%D0%B5%D0%B3%D0%BE-%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D1%8C-lyrics.html" title="Текст песни ANIVAR - Нечего скрывать">ANIVAR - Нечего скрывать</a><img src="/sites/all/themes/lt7/images/play.png" class="play" alt="video"/><div class="lang-line">Русский</div></li></ul></div><div class="more-link"><a href="/ru/topnodes"> Посмотреть больше статистики сайта</a></div></div>
+</div>
+  </section>
+        </div></div> <!-- /.section, /#sidebar-second -->
+            </div>
+    </div>
+      </div>
+</div>
+
+
+<div id="footer">
+  <div id="footer-left">  <div class="region region-footer-left">
+    <div id="block-lyricstranslateblocks-19" class="block block-lyricstranslateblocks first odd">
+
+      
+  <div class="footerfmenu"><ul  id="footer-menu"><li><span>ПЕРЕВОДЫ</span><ul><li><a href="/ru/artists">Исполнители</a></li><li><a href="/ru/songs">Песни</a></li><li><a href="/ru/translations">Переводы</a></li><li><a href="/ru/requests">Запросы на перевод</a></li><li><a href="/ru/transrequests"> Запросы на транскрипцию</a></li><li><a href="/ru/languages.html">Языки</a></li><li><a href="/ru/how-add-new-translation" class="special" title="Add new lyrics translation">+ Добавить новый перевод</a></li><li><a href="/ru/how-request-translation" class="special" title="Request lyrics translation">+ Запросить перевод</a></li></ul></li><li><span>СООБЩЕСТВО</span><ul><li><a href="/ru/members">Участники</a></li><li><a href="/ru/forum">Форум</a></li><li><a href="/ru/newforumtopics"> Новые обсуждения форума</a></li><li><a href="/ru/recent-comments">Последние комментарии</a></li><li><a href="/ru/topnodes"> Статистика сайта</a></li><li><a href="/ru/phrases">Идиомы</a></li><li><a href="/ru/collections">Коллекции</a></li></ul></li><li><span>LyricsTranslate</span><ul><li><a href="/ru/lt-site-rules">Правила сайта</a></li><li><a href="/ru/faq" title="Вопросы и ответы">ЧаВО</a></li><li><a href="/ru/contact">Свяжитесь с нами</a></li><li><a href="/ru/privacy-policy">Политика конфиденциальности</a></li><li><a href="/ru/copyrights">Авторские права</a></li><li><a href="/ru/resources">Полезные ресурсы</a></li></ul></li></ul></div>
+</div>
+<div id="block-lyricstranslateblocks-22" class="block block-lyricstranslateblocks last even">
+
+      
+  <div class="footerapager">&copy;&nbsp;2008-2019 LyricsTranslate.com</div>
+</div>
+  </div>
+</div>
+  <div id="footer-right">  <div class="region region-footer-right">
+    <div id="block-lyricstranslateblocks-65" class="block block-lyricstranslateblocks first odd">
+
+      
+  <script language="javascript" async>
+  var scr = document.createElement("script");
+  scr.type = 'text/javascript';
+  scr.src = "/cookieconsent/cookieconsent.php" + "?r=" + new Date().getTime();
+  document.getElementsByTagName("head")[0].appendChild(scr);
+</script>
+</div>
+<div id="block-lyricstranslateblocks-63" class="block block-lyricstranslateblocks even">
+
+      
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6342946-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+ga('set', 'dimension3', 'ru');
+ga('set', 'dimension2', 'Guest');
+ga('set', 'dimension1', 'song');
+  ga('send', 'pageview');
+
+  (function() {
+    var time = 25000,
+        delta = 100,
+        tid;
+
+    tid = setInterval(function() {
+        if ( window.blurred ) { return; }
+        time -= delta;
+        if ( time <= 0 ) {
+            clearInterval(tid);
+            ga('send', 'event', '30_seconds', 'read'); // time passed - do your work
+        }
+    }, delta);
+})();
+
+window.onblur = function() { window.blurred = true; };
+window.onfocus = function() { window.blurred = false; };
+
+</script>
+</div>
+<div id="block-lyricstranslateblocks-71" class="block block-lyricstranslateblocks last odd">
+
+      
+  <div id="lang-chooser"><img src="/sites/all/themes/lt7/images/locale-alternate.png" alt="Select your language" id="locale-alternate" /><select id="lang-chooser-select"><option ltlang='bn' value='https://lyricstranslate.com/bn/los-moles-el-novio-de-la-muerte-lyrics.html'>Bengali</option><option ltlang='de' value='https://lyricstranslate.com/de/los-moles-el-novio-de-la-muerte-lyrics.html'>Deutsch</option><option ltlang='en' value='https://lyricstranslate.com/en/los-moles-el-novio-de-la-muerte-lyrics.html'>English</option><option ltlang='es' value='https://lyricstranslate.com/es/los-moles-el-novio-de-la-muerte-lyrics.html'>Español</option><option ltlang='fr' value='https://lyricstranslate.com/fr/los-moles-el-novio-de-la-muerte-lyrics.html'>Français</option><option ltlang='hu' value='https://lyricstranslate.com/hu/los-moles-el-novio-de-la-muerte-lyrics.html'>Hungarian</option><option ltlang='it' value='https://lyricstranslate.com/it/los-moles-el-novio-de-la-muerte-lyrics.html'>Italiano</option><option ltlang='nl' value='https://lyricstranslate.com/nl/los-moles-el-novio-de-la-muerte-lyrics.html'>Nederlands</option><option ltlang='pl' value='https://lyricstranslate.com/pl/los-moles-el-novio-de-la-muerte-lyrics.html'>Polski</option><option ltlang='pt-br' value='https://lyricstranslate.com/pt-br/los-moles-el-novio-de-la-muerte-lyrics.html'>Português (Brasil)</option><option ltlang='ro' value='https://lyricstranslate.com/ro/los-moles-el-novio-de-la-muerte-lyrics.html'>Română</option><option ltlang='sv' value='https://lyricstranslate.com/sv/los-moles-el-novio-de-la-muerte-lyrics.html'>Svenska</option><option ltlang='tr' value='https://lyricstranslate.com/tr/los-moles-el-novio-de-la-muerte-lyrics.html'>Türkçe</option><option ltlang='el' value='https://lyricstranslate.com/el/los-moles-el-novio-de-la-muerte-lyrics.html'>Ελληνικά</option><option ltlang='bg' value='https://lyricstranslate.com/bg/los-moles-el-novio-de-la-muerte-lyrics.html'>Български</option><option ltlang='ru' value='https://lyricstranslate.com/ru/los-moles-el-novio-de-la-muerte-lyrics.html' selected>Русский</option><option ltlang='sr' value='https://lyricstranslate.com/sr/los-moles-el-novio-de-la-muerte-lyrics.html'>Српски</option><option ltlang='ar' value='https://lyricstranslate.com/ar/los-moles-el-novio-de-la-muerte-lyrics.html'>العربية</option><option ltlang='hi' value='https://lyricstranslate.com/hi/los-moles-el-novio-de-la-muerte-lyrics.html'>हिन्दी</option><option ltlang='ko' value='https://lyricstranslate.com/ko/los-moles-el-novio-de-la-muerte-lyrics.html'>한국어</option></select><span class="new-locales-bottom">Новые: <a href="/sv">Svenska</a>, <a href="/nl">Nederlands</a>, <a href="/ko">한국어</a>, <a href="/pl">Polski</a><span></div>
+</div>
+  </div>
+</div>
+  <div class="clear"></div>
+</div>
+    <script src="https://lyricstranslate.com/files/js/js_dH_0K7N7zj4PX2IjboHBXCw6Zioq4UBzDZK8BDQpIpE.js"></script>
+<script src="https://lyricstranslate.com/files/js/js_Zi93Q8Eh7vURralEv20wD-Hy02fTKFnKgHNPEursfdo.js"></script>
+<script src="https://lyricstranslate.com/files/js/js_-wUl1EdFtYlpJGi4G4F4d3eeXK5jQXaH6PShVQYb7go.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"ru\/","ajaxPageState":{"theme":"lt7","theme_token":"pn8RjGV6uvoefnuq1ih-OM_YEzJgeZwMSuUvliPHyEg","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_dollar\/jquery_dollar.js":1,"public:\/\/languages\/ru_1KDRlQSOA6J6eFxsH72M4DzYUU0hp3zjVOicwk9ksvs.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/custom\/ltadvertising\/js\/ltadvertising.js":1,"sites\/all\/modules\/custom\/ltartistsonglist\/js\/jquery.ltartistsonglist.js":1,"sites\/all\/modules\/custom\/ltexplicitcontent\/js\/ltexplicitcontent.js":1,"sites\/all\/modules\/custom\/ltlanguages\/js\/ltlanguages.js":1,"sites\/all\/modules\/custom\/ltlikes\/js\/jquery.ltlikes.js":1,"sites\/all\/modules\/custom\/ltlyricsondemand\/js\/ltlyricsondemand.js":1,"sites\/all\/modules\/custom\/ltthanks\/js\/ltthanks.js":1,"sites\/all\/modules\/custom\/lyricstranslateblocks\/js\/lyricstranslateblocks.js":1,"sites\/all\/modules\/custom\/lyricstranslategoogleautocomplete\/js\/init.js":1,"sites\/all\/modules\/custom\/lyricstranslategoogleautocomplete\/js\/jquery.autocomplete.js":1,"sites\/all\/modules\/custom\/lyricstranslaterate\/js\/jrating\/jquery.rating.js":1,"sites\/all\/modules\/custom\/lyricstranslaterate\/js\/jrating\/jquery.rating.init.js":1,"sites\/all\/themes\/lt7\/js\/jquery-url-mod\/jquery.query-object.js":1,"sites\/all\/modules\/custom\/lyricstranslatewhathappens\/js\/lyricstranslatewhathappensupdate.js":1,"modules\/statistics\/statistics.js":1,"sites\/all\/themes\/lt7\/js\/jtabs\/jquery.tabs.js":1,"sites\/all\/themes\/lt7\/js\/jlinks\/jquery.links.js":1,"sites\/all\/themes\/lt7\/js\/jmenu\/jquery.menu.js":1,"sites\/all\/themes\/lt7\/js\/jlanguages\/jquery.languages.js":1,"sites\/all\/themes\/lt7\/js\/jtranslationheight\/jquery.translationheight.js":1,"sites\/all\/themes\/lt7\/js\/jmenuuserprofile\/jquery.jmenuuserprofile.js":1,"sites\/all\/themes\/lt7\/js\/SlickNav\/dist\/jquery.slicknav.min.js":1,"sites\/all\/themes\/lt7\/js\/hoverintent\/jquery.hoverIntent.minified.js":1,"sites\/all\/themes\/lt7\/js\/libraries\/masonry.pkgd.min.js":1,"sites\/all\/themes\/lt7\/js\/libraries\/sticky-kit.min.js":1,"sites\/all\/themes\/lt7\/js\/libraries\/copy.js":1,"sites\/all\/themes\/lt7\/js\/libraries\/tooltipster\/js\/tooltipster.bundle.min.js":1,"sites\/all\/themes\/lt7\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/footnotes\/footnotes.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/libraries\/colorbox\/example4\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/ltadvertising\/css\/ltadvertising.css":1,"sites\/all\/modules\/custom\/ltartistsonglist\/css\/ltartistsonglist.css":1,"sites\/all\/modules\/custom\/ltexplicitcontent\/css\/ltexplicitcontent.css":1,"sites\/all\/modules\/custom\/ltinprogressnodestatus\/css\/ltinprogressnodestatus.css":1,"sites\/all\/modules\/custom\/ltlanguages\/css\/ltlanguages.css":1,"sites\/all\/modules\/custom\/ltlikes\/css\/ltlikes.css":1,"sites\/all\/modules\/custom\/lttranslationselect\/css\/lttranslationselect.css":1,"sites\/all\/modules\/custom\/lyricstranslateblocks\/css\/lyricstranslateblocks.css":1,"sites\/all\/modules\/custom\/lyricstranslateforms\/css\/lyricstranslateforms.css":1,"sites\/all\/modules\/custom\/lyricstranslategoogleautocomplete\/css\/lyricstranslategoogleautocomplete.css":1,"sites\/all\/modules\/custom\/lyricstranslaterate\/css\/lyricstranslaterate.css":1,"sites\/all\/modules\/custom\/lyricstranslaterate\/js\/jrating\/jquery.rating.css":1,"sites\/all\/modules\/custom\/lyricstranslatetranslationsproofreading\/css\/lyricstranslatetranslationsproofreading.css":1,"sites\/all\/modules\/custom\/lyricstranslatewhathappens\/css\/lyricstranslatewhathappens.css":1,"sites\/all\/modules\/quote\/quote.css":1,"sites\/all\/modules\/fivestar\/css\/fivestar.css":1,"sites\/all\/modules\/fivestar\/widgets\/basic\/basic.css":1,"sites\/all\/themes\/zen\/system.menus.css":1,"sites\/all\/themes\/lt7\/css\/html-reset.css":1,"sites\/all\/themes\/lt7\/css\/tabs.css":1,"sites\/all\/themes\/lt7\/css\/layout.css":1,"sites\/all\/themes\/lt7\/css\/ltzen.css":1,"sites\/all\/themes\/lt7\/js\/SlickNav\/dist\/slicknav.css":1,"sites\/all\/themes\/lt7\/js\/libraries\/tooltipster\/css\/tooltipster.bundle.min.css":1,"sites\/all\/themes\/lt7\/js\/libraries\/tooltipster\/css\/plugins\/tooltipster\/sideTip\/themes\/tooltipster-sideTip-shadow.min.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.30","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"","previous":"","next":"","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"95%","maxHeight":"95%","initialWidth":"300","initialHeight":"250","fixed":false,"scrolling":true,"mobiledetect":false,"mobiledevicewidth":"480px"},"languagevarq":"ru","ltartistsonglistLanguage":"ru","languagevar":"ru","quote_nest":2,"video_filter":{"url":{"ckeditor":"\/ru\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/ru\/video_filter\/instructions","modulepath":"sites\/all\/modules\/video_filter"},"LTWhatHappens":{"basePath":"\/","langPath":"ru"},"statistics":{"data":{"nid":"851231"},"url":"\/modules\/statistics\/statistics_apcu.php"}});</script>
+</body>
+</html>

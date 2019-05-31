@@ -73,10 +73,22 @@ wf_des = sorted(word_freq.items(), key=lambda x: x[1], reverse=True)
 wfreqs = np.array(map(lambda x: x[1], wf_des), dtype=np.int)
 
 # for word, freq in wf_des[:100]:
-#     print '%10s\t %4d' % (word, freq)	
+#     print '%10s\t %4d' % (word, freq)
 
-plt.plot(wfreqs[:1000], lw=2); plt.grid(1)
+#plt.plot(wfreqs[:1000], lw=2); plt.grid(1)
 
+fig1, ax1 = plt.subplots()
+if wfreqs.shape[0] > 2000:
+	ax1.loglog(wfreqs[:2000], lw=2); plt.grid(1)
+else:
+	ax1.loglog(wfreqs, lw=2); plt.grid(1)
+ax1.set_title('Word Frequency', fontsize=18)
+ax1.set_ylabel('Number of occurrencies', fontsize=16)
+ax1.set_xlabel('Word serial number', fontsize=16)
+
+#
+# Count frequencies of the word pairs in text
+#
 
 dword_freq = {}
 
@@ -92,9 +104,22 @@ dwf_des = sorted(dword_freq.items(), key=lambda x: x[1], reverse=True)
 dwfreqs = np.array(map(lambda x: x[1], dwf_des), dtype=np.int)
 
 for dword, freq in dwf_des[:1000]:
-    print '%4d %10s' % (freq, dword)	
+    print '%5d\t %10s' % (freq, dword)	
 
-plt.figure()
-plt.plot(dwfreqs[:1000], lw=2); plt.grid(1)
+
+#plt.figure(); plt.plot(dwfreqs[:1000], lw=2); plt.grid(1)
+
+fig2, ax2 = plt.subplots()
+if wfreqs.shape[0] > 10000:
+	ax2.loglog(dwfreqs[:10000], lw=2); plt.grid(1)
+else:
+	ax2.loglog(dwfreqs, lw=2); plt.grid(1)
+
+ax2.set_title('Two-Word Groups Frequency', fontsize=18)
+ax2.set_ylabel('Number of occurrencies', fontsize=16)
+ax2.set_xlabel('Word serial number', fontsize=16)
+
+
+plt.show()
 
 
